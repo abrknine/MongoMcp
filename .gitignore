@@ -1,0 +1,5 @@
+# Ignore actual config file (contains secrets)
+config.json
+
+# Keep example config in git
+!config.example.json
