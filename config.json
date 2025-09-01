@@ -1,10 +1,1 @@
-{
-  "mongodb": {
-    "uri": "mongodb+srv://taqariUser:HumanClan%401234@cluster0.arqfqjr.mongodb.net/taqari?retryWrites=true&w=majority&appName=Cluster0"
-  },
-  "server": {
-    "name": "mcpserverb",
-    "version": "1.0.0",
-    "description": "MCP server for MongoDB operations on Taqari database"
-  }
-}
+
